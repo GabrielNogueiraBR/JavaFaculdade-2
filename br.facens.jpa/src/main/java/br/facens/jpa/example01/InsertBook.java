@@ -18,7 +18,7 @@ public class InsertBook {
 
         // Criacao de uma entidade Book
         Book b1 = new Book();
-        b1.setId(1L);
+        // b1.setId(1L);
         b1.setAuthor("Gabriel Augusto Nogueira");
         b1.setPrice(26.6);
         b1.setTitle("Como utilizar entidades");
